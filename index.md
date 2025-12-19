@@ -8,5 +8,5 @@ Hello, and welcome to my website. This is an online repository of my projects, t
 
 ## Links
 
-[About Me](https:/morghumphreys.github.io/About)
+[About Me](https://morghumphreys.github.io/About)
 

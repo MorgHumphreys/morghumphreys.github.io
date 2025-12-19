@@ -20,7 +20,7 @@ Rough order of books I've read since around 2019.
 **A Clash of Kings** - George R. R. Martin  
 **Catching Fire** - Suzanne Collins  
 **Mockingjay** - Suzanne Collins  
-**Montana 1948** - Larry Watson
+**Montana 1948** - Larry Watson 
 **The Adventures of Sherlock Holmes** - Arthur Conan Doyle  
 **The Nightingale** - Kristin Hannah  
 **Seven Habits of Highly Effective People** - Stephen Covey  
@@ -68,7 +68,7 @@ Rough order of books I've read since around 2019.
 **Tipping Point** - Malcom Gladwell  
 **Him & Me** - Jack Whitehall and Michael Whitehall  
 **The 12-Week Year** - Brian Moran and Michael Lennington  
-**How to Survive Family Holidays** - Jack Whitehall, Michael Whitehall, and Hilary Whitehall  
+**How to Survive Family Holidays** - Jack Whitehall, Michael and Hilary Whitehall  
 **Tools of Titan** - Tim Ferris  
 **Slow Productivity** - Cal Newport  
 **Algebra of Wealth** - Scott Galloway  

@@ -20,7 +20,7 @@ Rough order of books I've read since around 2019.
 **A Clash of Kings** - George R. R. Martin  
 **Catching Fire** - Suzanne Collins  
 **Mockingjay** - Suzanne Collins  
-**Montana 1948** - Larry Watson  
+**Montana 1948** - Larry Watson
 **The Adventures of Sherlock Holmes** - Arthur Conan Doyle  
 **The Nightingale** - Kristin Hannah  
 **Seven Habits of Highly Effective People** - Stephen Covey  
@@ -32,6 +32,8 @@ Rough order of books I've read since around 2019.
 **1984** - George Orwell  
 **Animal Farm** - George Orwell  
 **Atomic Habits** - James Clear  
+**Start with Why** - Simon Sinek  
+**The Latte Factor** - David Bach  
 **Burmese Days** - George Orwell  
 **Indistractable** - Nir Eyal and Julie Li  
 **Outliers** - Malcolm Gladwell  
@@ -39,23 +41,29 @@ Rough order of books I've read since around 2019.
 **Never Split the Difference** - Chris Voss and Tahl Raz  
 **Deep Work** - Cal Newport  
 **Drive** - Daniel Pink  
+**The 4-Hour Work Week** - Tim Ferriss  
 **The World Atlas of Coffee** - James Hoffman  
 **Getting to Yes** - Roger Fisher & William Ury  
 **Storytelling with Data** - Cole Nussbaumer Kanflic  
 **Make Time** - Jake Knapp and John Zeralsky  
 **Make it Stick** - Peter Brown, Henry Roediger et al  
+**Traction** - Gabriel Weinberg & Justin Mares  
+  **How to Think Like a Roman Emperor** - Donald Robertson  
 **The Psychology of Money** - Morgan Housel  
 **Discipline is Destiny** - Ryan Holiday  
 **Clean Code** - Robert Martin  
+**How to make the best coffee at home** - James Hoffman  
 **The Little Book of IKIAGI**- Ken Mogi  
 **The Pragmatic Programmer** - David Thomas and Andrew Hunt  
 **Ego is the Enemy** - Ryan Holiday  
 **Build** - Tony Fadell  
 **Range** - David Epstein  
 **Four Thousand Weeks** - Oliver Burkeman   
+**Time Management for System Administrators** - Thomas A Limoncelli  
 **The Phoenix Project** - Gene Kim, Kevin Behr, George Spafford  
 **Courage is Calling** - Ryan Holiday  
 **Feel-Good Productivity** - Ali Abdaal  
+**So Good They Can't Ignore You** - Cal Newport  
 **Talking to Strangers** - Malcolm Gladwell  
 **Tipping Point** - Malcom Gladwell  
 **Him & Me** - Jack Whitehall and Michael Whitehall  
@@ -68,6 +76,10 @@ Rough order of books I've read since around 2019.
 **Show Your Work** - Austin Kleon  
 **Down and Out in Paris and London** - George Orwell  
 **Keep the Aspidistra Flying** - George Orwell  
+**Man's Search For Meaning** - Viktor Frankl  
 
-
-
+### Currently Reading:  
+**Right Thing, Right Now** - Ryan Holiday  
+**Wisdom Takes Work** - Ryan Holiday  
+**Tiny Experiments** - Anne-Laure Le Cunff  
+**Fahrenheit 451** - Ray Bradbury

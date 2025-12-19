@@ -4,12 +4,13 @@
 
 
 
+
 ## Books
 
 Rough order of books I've read since around 2019. 
 
--  **The Nightingale** - Kristin Hannah
--  **Seven Habits of Highly Effective People** - Stephen Covey
+**The Nightingale** - Kristin Hannah  
+**Seven Habits of Highly Effective People** - Stephen Covey
 -  **The Art of War** - Sun Tzu
 -  **All Quiet on the Western Front** - Erich Remarque
 -  **1984** - George Orwell
@@ -51,4 +52,6 @@ Rough order of books I've read since around 2019.
 -  **Show Your Work** - Austin Kleon
 -  **Down and Out in Paris and London** - George Orwell
 -  **Keep the Aspidistra Flying** - George Orwell
+
+
 

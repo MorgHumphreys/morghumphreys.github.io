@@ -10,7 +10,7 @@ Hello, and welcome to my website. This is an online repository of my projects, t
 
 [About Me](https://morghumphreys.github.io/About)
 
-[Writings](https://morghumphreys.github.io/Writings)
+[Writing](https://morghumphreys.github.io/Writing)
 
 [Projects](https://morghumphreys.github.io/Projects)
 

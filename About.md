@@ -1,4 +1,4 @@
-[Back to Home](https://github.com/MorgHumphreys/morghumphreys.github.io/blob/master)
+[Back to Home](https://morghumphreys.github.io)
 
 ## About Me
 

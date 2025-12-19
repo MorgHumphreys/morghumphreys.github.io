@@ -9,6 +9,19 @@
 
 Rough order of books I've read since around 2019. 
 
+**To Kill a Mockingbird** - Harper Lee  
+**A Game of Thrones** - George R. R. Martin  
+**The Hunger Games** - Suzanne Collins  
+**I Am The Messenger** - Markus Zusak  
+**The Hobbit** - J.R.R Tolkien  
+**Mud, Sweat and Tears** - Bear Grylls  
+**The Witcher - The Last Wish** - Andrzej Sapkowski  
+**The Witcher - Sword of Destiny** - Andrzej Sapkowski  
+**A Clash of Kings** - George R. R. Martin  
+**Catching Fire** - Suzanne Collins  
+**Mockingjay** - Suzanne Collins  
+**Montana 1948** - Larry Watson  
+**The Adventures of Sherlock Holmes** - Arthur Conan Doyle  
 **The Nightingale** - Kristin Hannah  
 **Seven Habits of Highly Effective People** - Stephen Covey  
 **The Art of War** - Sun Tzu  
@@ -55,7 +68,6 @@ Rough order of books I've read since around 2019.
 **Show Your Work** - Austin Kleon  
 **Down and Out in Paris and London** - George Orwell  
 **Keep the Aspidistra Flying** - George Orwell  
-
 
 
 

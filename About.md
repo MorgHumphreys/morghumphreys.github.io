@@ -20,7 +20,7 @@ Rough order of books I've read since around 2019.
 **A Clash of Kings** - George R. R. Martin  
 **Catching Fire** - Suzanne Collins  
 **Mockingjay** - Suzanne Collins  
-**Montana 1948** - Larry Watson 
+**Montana 1948** - Larry Watson  
 **The Adventures of Sherlock Holmes** - Arthur Conan Doyle  
 **The Nightingale** - Kristin Hannah  
 **Seven Habits of Highly Effective People** - Stephen Covey  

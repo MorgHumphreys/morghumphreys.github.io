@@ -77,9 +77,10 @@ Rough order of books I've read since around 2019.
 **Down and Out in Paris and London** - George Orwell  
 **Keep the Aspidistra Flying** - George Orwell  
 **Man's Search For Meaning** - Viktor Frankl  
+**Wisdom Takes Work** - Ryan Holiday  
+**Fahrenheit 451** - Ray Bradbury  
+
 
 ### Currently Reading:  
 **Right Thing, Right Now** - Ryan Holiday  
-**Wisdom Takes Work** - Ryan Holiday  
 **Tiny Experiments** - Anne-Laure Le Cunff  
-**Fahrenheit 451** - Ray Bradbury
